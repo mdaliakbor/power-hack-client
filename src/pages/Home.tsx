@@ -84,7 +84,7 @@ const Home = () => {
                 <div>
                     <div className="d-flex justify-content-between algin-items-center mb-3 bg-light p-2 rounded">
                         <div className="d-flex algin-items-center">
-                            <h3 className="display-6 fs-4 me-5">Billings</h3>
+                            <h3 className="display-6 fs-4 me-5">Name</h3>
                             <div>
                                 <Form.Control
                                     type="text"
